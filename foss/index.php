@@ -1,9 +1,7 @@
 <?php
-	echo "edit oleh K3513062";
-	echo "hapus oleh K3513062";
-	echo "edit oleh K3513054";
-?>
-<?php
+
+//komenatr 1 
+//komentar 2
 
 /*
  *---------------------------------------------------------------
